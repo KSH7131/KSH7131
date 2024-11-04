@@ -1,4 +1,6 @@
 ## Hi there 👋
+2021.06.10_portfolio:https://bit.ly/4fxNCRU
+2024 https://ksh7131.ivyro.net/index.html
 
 <!--
 **KSH7131/KSH7131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
