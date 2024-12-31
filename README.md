@@ -1,5 +1,5 @@
 # 소개
-<img width="50%" alt="it's_me" src="https://github.com/KSH7131/KSH7131/blob/main/It's%20me.png?raw=true">
+<img width="30%" alt="it's_me" src="https://github.com/KSH7131/KSH7131/blob/main/It's%20me.png?raw=true">
 기획력 있는 콘텐츠 디자이너 김성현입니다.
 
 # 경력
@@ -21,5 +21,5 @@
 | 개인 | 2021 편집 디자이너 포트폴리오 | https://bit.ly/4fxNCRU |
 | 개인 | 2024 콘텐츠 디자이너 포트폴리오 | https://bit.ly/4fAqemp |
 | 개인 | 젠틀버거 | https://ksh7131.ivyro.net/index.html |
-| 팀 | 청량마켓몰 | cheonglyang-react.vercel.app |
+| 팀 | 청량마켓몰 | https://cheonglyang-react.vercel.app |
 | 팀 | 청량마켓몰 프레젠테이션 | https://bit.ly/3P9QMQU |
