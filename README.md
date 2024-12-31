@@ -1,17 +1,27 @@
-2021.06.10 Editorial Design portfolio : https://bit.ly/4fxNCRU</br>
-2024 Bootstrap individual project : https://ksh7131.ivyro.net/index.html
+# 소개
+기획력 있는 콘텐츠 디자이너 김성현입니다.
 
-<!--
-**KSH7131/KSH7131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 경력
+| 회사 | 직무 | 기간 |
+|---|---|---|
+| 신도림테크노마트 | 영업활성화 2팀 VMD | 2021.08 ~ 2024.03 |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 교육기관 수료
+| 기관명 | 교육명 | 기간 |
+|---|---|---|
+| 선문대학교 | 국어국문학과 | 2015.03 ~ 2021.02 |
+| 신도림 그린컴퓨터아카데미 | 출판편집(일러, 포토, 인디자인, 북디자인) 취업 과정 | 2021.01.27 ~ 2021.06.10 |
+| 신도림 그린컴퓨터아카데미 | 웹퍼블리셔(UIUX)&프론트엔드개발(API, ChatGPT, 피그마, 리액트, 뷰)기업플랫폼프로젝트 | 2024.06.24 ~ 2024.12.27 |
+
+# 포트폴리오
+| 유형 | 포트폴리오 | 주소 |
+|---|---|---|
+| 개인 | 2021 편집 디자이너 포트폴리오 | https://bit.ly/4fxNCRU |
+| 개인 | 2024 콘텐츠 디자이너 포트폴리오 | https://bit.ly/4fAqemp |
+| 개인 | 젠틀버거 | https://ksh7131.ivyro.net/index.html |
+| 팀 | 청량마켓몰 | cheonglyang-react.vercel.app |
+| 팀 | 청량마켓몰 프레젠테이션 | https://bit.ly/3P9QMQU |
+
+| Version | Preview |
+|---|---|
