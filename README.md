@@ -1,5 +1,5 @@
 # 소개
-<img width="100%" alt="it's_me" src="https://github.com/KSH7131/KSH7131/blob/main/It's%20me.png?raw=true">
+<img width="50%" alt="it's_me" src="https://github.com/KSH7131/KSH7131/blob/main/It's%20me.png?raw=true">
 기획력 있는 콘텐츠 디자이너 김성현입니다.
 
 # 경력
